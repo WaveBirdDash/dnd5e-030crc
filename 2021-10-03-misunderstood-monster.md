@@ -27,9 +27,11 @@ _Medium humanoid (any species, shapechanger)_
 - **Hit Points** 39 (6d8 + 12)
 - **Speed** 30 ft. in humanoid form; 30 ft., climb 30 ft. in chimp and hybrid form
 
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|15 (+2)|15 (+2)|12 (+1)|15 (+2)|14 (+2)|
+|       |   | MOD | SAVE |       |   | MOD | SAVE |
+|:-----:|:-:|:---:|:----:|:-----:|:-:|:---:|:----:|
+|**STR**|16 | +3  |  +3  |**INT**|12 | +1  |  +1  |
+|**DEX**|15 | +2  |  +2  |**WIS**|15 | +2  |  +2  |
+|**CON**|15 | +2  |  +2  |**CHA**|14 | +2  |  +2  |
 
 - **Skills** Athletics +5, Intimidation +4, Perception +4
 - **Senses** passive Perception 14

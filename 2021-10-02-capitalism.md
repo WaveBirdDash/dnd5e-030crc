@@ -39,6 +39,12 @@ _Medium undead, lawful evil_
 |:-----:|:-----:|:-----:|:-----:|:-----:|:----:|
 |14 (+2)|17 (+3)|16 (+3)|20 (+5)|18 (+4)|4 (-3)|
 
+|       |   | MOD | SAVE |       |   | MOD | SAVE |
+|:-----:|:-:|:---:|:----:|:-----:|:-:|:---:|:----:|
+|**STR**|14 | +2  |  +2  |**INT**|20 | +5  |  +5  |
+|**DEX**|17 | +3  |  +3  |**WIS**|18 | +4  |  +4  |
+|**CON**|16 | +3  |  +3  |**CHA**| 4 | -3  |  -3  |
+
 - **Immunities** Charmed, Frightened, Necrotic, Paralyzed, Petrified, Poison, Unconscious
 - **Senses** Darkvision 60 ft., Truesight 60 ft., passive Perception 14
 - **Languages** all languages known of their summoner

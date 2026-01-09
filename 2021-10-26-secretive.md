@@ -33,11 +33,12 @@ _Large fey (archfey), chaotic neutral_
 - **Hit Points** 607 (45d10 + 270)
 - **Speed** 60 ft.
 
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|24 (+7)|26 (+8)|26 (+8)|21 (+5)|25 (+7)|26 (+8)|
+|       |   | MOD | SAVE |       |   | MOD | SAVE |
+|:-----:|:-:|:---:|:----:|:-----:|:-:|:---:|:----:|
+|**STR**|24 | +7  |  +7  |**INT**|21 | +5  |  +5  |
+|**DEX**|26 | +8  | +16  |**WIS**|25 | +7  | +15  |
+|**CON**|26 | +8  |  +8  |**CHA**|26 | +8  | +16  |
 
-- **Saving Throws** DEX +16, WIS +15, CHA +16
 - **Skills** Insight +13, Intimidation +16, Perception +15, Persuasion +16
 - **Damage Immunities**
 - **Condition Immunities** Blinded, Charmed, Deafened, Force, Frightened, Exhausted, Grappled, Paralyzed, Poisoned, Stunned; Bludgeoning, Piercing, and Slashing from nonmagical attacks
