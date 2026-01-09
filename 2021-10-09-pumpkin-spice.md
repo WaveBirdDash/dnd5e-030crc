@@ -47,16 +47,9 @@ _Medium Fey, Lawful Neutral_
 
 ### Traits
 
-- _**Innate Spellcasting.**_ The dryad’s innate spellcasting ability is Charisma (spell save DC 17). The dryad can innately cast the following spells, requiring no material components:
+_**Magic Resistance.**_ The dryad has advantage on saving throws against spells and other magical effects.
 
- At will: _druidcraft_, _poison spray_
-
- 3/day each: _chaos bolt_, _entangle_, _ray of sickness_
-
- 1/day each: _circle of death_, _counterspell_, _dominate beast_, _enervation_
-- _**Magic Resistance.**_ The dryad has advantage on saving throws against spells and other magical effects.
-- _**Magic Weapons.**_ The dryad’s weapon attacks are magical.
-- _**Tree Stride.**_ Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 120 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
+_**Tree Stride.**_ Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 120 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
 
 ### Actions
 
@@ -64,9 +57,9 @@ _**Spellcasting.**_ The dryad casts one of the following spells, requiring no Ma
 
 **At Will:** _Druidcraft_, _Poison Spray_
 
- 3/day each: _Chaos Bolt_, _Entangle_, _Ray of Sickness_
+**3/Day Each:** _Chaos Bolt_, _Entangle_, _Ray of Sickness_
 
- 1/day each: _Circle of Death_, _Counterspell_, _Dominate Beast_, _Enervation_
+**1/Day Each:** _Circle of Death_, _Counterspell_, _Dominate Beast_, _Enervation_
 
 _**Quarterstaff.**_ _Melee Attack Roll:_ +9 to hit, reach 5 ft. _Hit:_ 10 (1d8 + 6) Bludgeoning damage.
 
