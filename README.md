@@ -56,7 +56,7 @@ To see entries from other folks in the community, check out the #030crc hashtag 
 
 ### Artists
 
-- [boi_global](https://twitter.com/boi_global)
+- [GlobalDad](https://ko-fi.com/globaldad)
 - [Haru](https://twitter.com/200dollarHaru)
 - Mario Panighetti
 - [RedDrawn Art](https://linktr.ee/RedDrawnArt)
@@ -87,7 +87,7 @@ This document makes the following modifications from _SRD 5.1_ and _SRD 5.2_:
 
 ## Licensing
 
-_Halloween Zero-to-Thirty Challenge Rating Challenge_ is © 2021 Mario Panighetti. This work is licensed via [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+_Halloween Zero-to-Thirty Challenge Rating Challenge_ is © 2021 Mario Panighetti. This work is licensed via [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), except where noted below.
 
 All included artwork has been commissioned specifically for this project, and all artists retain creative ownership of their respective works, including the right to sell copies. Modification and usage of artwork is not permitted without express permission from the artist.
 

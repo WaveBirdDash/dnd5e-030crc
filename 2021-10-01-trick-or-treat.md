@@ -25,9 +25,11 @@ _Tiny construct, same alignment as its creator_
 - **Hit Points** 3 (1d4 + 1)
 - **Speed** 0 ft., fly 10 ft.
 
-| STR  |  DEX  |  CON  | INT  | WIS  | CHA  |
-|:----:|:-----:|:-----:|:----:|:----:|:----:|
-|1 (-5)|13 (+1)|13 (+1)|1 (-5)|3 (-4)|1 (-5)|
+|       |   | MOD | SAVE |       |   | MOD | SAVE |
+|:-----:|:-:|:---:|:----:|:-----:|:-:|:---:|:----:|
+|**STR**| 1 | -5  |  -5  |**INT**| 1 | -5  |  -5  |
+|**DEX**|13 | +1  |  +1  |**WIS**| 3 | -4  |  -4  |
+|**CON**|13 | +1  |  +1  |**CHA**| 1 | -5  |  -5  |
 
 - **Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poison
 - **Senses** blindsight 10 ft. (blind beyond this radius), passive Perception 6
@@ -60,9 +62,11 @@ _Medium swarm of Tiny constructs, same alignment as its creator_
 - **Hit Points** 28 (4d8 + 10)
 - **Speed** 0 ft., fly 10 ft.
 
-| STR  |  DEX  |  CON  | INT  | WIS  | CHA  |
-|:----:|:-----:|:-----:|:----:|:----:|:----:|
-|2 (-4)|15 (+2)|14 (+2)|1 (-5)|3 (-4)|1 (-5)|
+|       |   | MOD | SAVE |       |   | MOD | SAVE |
+|:-----:|:-:|:---:|:----:|:-----:|:-:|:---:|:----:|
+|**STR**| 2 | -4  |  -4  |**INT**| 1 | -5  |  -5  |
+|**DEX**|15 | +2  |  +2  |**WIS**| 3 | -4  |  -4  |
+|**CON**|14 | +2  |  +2  |**CHA**| 1 | -5  |  -5  |
 
 - **Resistances** Bludgeoning, Piercing, Slashing
 - **Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poison, Prone, Restrained, Stunned

@@ -27,7 +27,7 @@ _Medium Aberration, Lawful Evil_
 
 **Speed** 30 ft.
 
-|       |   | MOD | SAVE |   |       | MOD | SAVE |
+|       |   | MOD | SAVE |       |   | MOD | SAVE |
 |:-----:|:-:|:---:|:----:|:-----:|:-:|:---:|:----:|
 |**STR**| 2 | -4  |  -4  |**INT**|20 | +5  |  +5  |
 |**DEX**|17 | +3  |  +3  |**WIS**|18 | +4  |  +4  |
