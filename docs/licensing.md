@@ -1,0 +1,11 @@
+# Licensing
+
+_Halloween Zero-to-Thirty Challenge Rating Challenge_ is © 2021 Mario Panighetti. This work is licensed via [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
+All artwork has been commissioned specifically for this project, and all artists retain creative ownership of their respective works, including the right to sell copies. Modification and usage of such artwork is not permitted without express permission from the artist.
+
+## Licensed Content
+
+_[System Reference Document 5.1](https://dndbeyond.com/srd)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+_[System Reference Document 5.2](https://dndbeyond.com/srd)_ ("SRD 5.2") © 2025 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
