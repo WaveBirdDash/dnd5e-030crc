@@ -54,3 +54,10 @@ To see entries from other folks in the community, check out the #030crc hashtag 
 ### [Credits](credits.md)
 
 ### [Licensing](licensing.md)
+
+---
+
+| [October 1st: Trick-or-Treat](2021-10-01-trick-or-treat.md) ➡️ |
+|-:|
+
+---

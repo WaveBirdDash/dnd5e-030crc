@@ -56,5 +56,5 @@ _**Change Shape.**_ The werechimp polymorphs into a chimp–humanoid hybrid or i
 
 ---
 
-| ⬅️ [October 2nd: Capitalism](2021-10-02-capitalism.md) | [October 4th: Spoopy](2021-10-04-spoopy.md) ➡️ |
-|:-|-:|
+| ⬅️ [October 2nd: Capitalism](2021-10-02-capitalism.md) | [Home 🏡](index.md) | [October 4th: Spoopy](2021-10-04-spoopy.md) ➡️ |
+|:-|:-:|-:|

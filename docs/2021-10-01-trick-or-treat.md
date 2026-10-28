@@ -88,5 +88,7 @@ _**Cavities.**_ _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one target in the
 
 ---
 
-| [October 2nd: Capitalism](2021-10-02-capitalism.md) ➡️ |
-|-:|
+| [Home 🏡](index.md) | [October 2nd: Capitalism](2021-10-02-capitalism.md) ➡️ |
+|:-:|-:|
+
+---

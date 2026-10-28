@@ -79,5 +79,5 @@ _**Healing Touch (3/Day).**_ The angel touches another creature. The target magi
 
 ---
 
-| ⬅️ [October 9th: Pumpkin Spice](2021-10-09-pumpkin-spice.md) | [October 11th: Beast](2021-10-11-beast.md) ➡️ |
-|:-|-:|
+| ⬅️ [October 9th: Pumpkin Spice](2021-10-09-pumpkin-spice.md) | [Home 🏡](index.md) | [October 11th: Beast](2021-10-11-beast.md) ➡️ |
+|:-|:-:|-:|

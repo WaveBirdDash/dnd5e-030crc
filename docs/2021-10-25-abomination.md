@@ -72,5 +72,5 @@ _**Endure (1/Bear).**_ When the bear is reduced to 0 Hit Points, it drops to 1 H
 
 ---
 
-| ⬅️ [October 24th: Outer Space](2021-10-24-outer-space.md) | [October 26th: Secretive](2021-10-26-secretive.md) ➡️ |
-|:-|-:|
+| ⬅️ [October 24th: Outer Space](2021-10-24-outer-space.md) | [Home 🏡](index.md) | [October 26th: Secretive](2021-10-26-secretive.md) ➡️ |
+|:-|:-:|-:|
