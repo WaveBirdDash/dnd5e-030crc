@@ -92,5 +92,5 @@ Phygius can take 3 Legendary Actions, choosing from the options below. Only one 
 
 ---
 
-| ⬅️ [October 25th: Abomination](2021-10-25-abomination.md) | [October 27th: Mythology](2021-10-27-mythology.md) ➡️ |
-|:-|-:|
+| ⬅️ [October 25th: Abomination](2021-10-25-abomination.md) | [Home 🏡](index.md) | [October 27th: Mythology](2021-10-27-mythology.md) ➡️ |
+|:-|:-:|-:|

@@ -83,5 +83,5 @@ _**Parry.**_ The grass warrior adds 2 to its AC against one melee attack that wo
 
 ---
 
-| ⬅️ [October 18th: Boss Monster](2021-10-18-boss-monster.md) | [October 20th: Expanse](2021-10-20-expanse.md) ➡️ |
-|:-|-:|
+| ⬅️ [October 18th: Boss Monster](2021-10-18-boss-monster.md) | [Home 🏡](index.md) | [October 20th: Expanse](2021-10-20-expanse.md) ➡️ |
+|:-|:-:|-:|

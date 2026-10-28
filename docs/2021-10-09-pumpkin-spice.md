@@ -88,5 +88,5 @@ _**Flavor Pump.**_ The dryad poisons one drink within 5 feet. A drink poisoned i
 
 ---
 
-| ⬅️ [October 8th: Psychopomp](2021-10-08-psychopomp.md) | [October 10th: Supernatural](2021-10-10-supernatural.md) ➡️ |
-|:-|-:|
+| ⬅️ [October 8th: Psychopomp](2021-10-08-psychopomp.md) | [Home 🏡](index.md) | [October 10th: Supernatural](2021-10-10-supernatural.md) ➡️ |
+|:-|:-:|-:|

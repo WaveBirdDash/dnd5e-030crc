@@ -73,5 +73,5 @@ _**Siphon Fortune.** Trigger:_ A creature attached to the false shadow using its
 
 ---
 
-| ⬅️ [October 7th: The Deep](2021-10-07-the-deep.md) | [October 9th: Pumpkin Spice](2021-10-09-pumpkin-spice.md) ➡️ |
-|:-|-:|
+| ⬅️ [October 7th: The Deep](2021-10-07-the-deep.md) | [Home 🏡](index.md) | [October 9th: Pumpkin Spice](2021-10-09-pumpkin-spice.md) ➡️ |
+|:-|:-:|-:|

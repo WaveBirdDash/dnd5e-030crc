@@ -70,5 +70,5 @@ The tax is collected even if the creature's wealth is not under their current ph
 
 ---
 
-| ⬅️ [October 1st: Trick-or-Treat](2021-10-01-trick-or-treat.md) | [October 3rd: Misunderstood Monster](2021-10-03-misunderstood-monster.md) ➡️ |
-|:-|-:|
+| ⬅️ [October 1st: Trick-or-Treat](2021-10-01-trick-or-treat.md) | [Home 🏡](index.md) | [October 3rd: Misunderstood Monster](2021-10-03-misunderstood-monster.md) ➡️ |
+|:-|:-:|-:|
