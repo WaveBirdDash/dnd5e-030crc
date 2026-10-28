@@ -20,6 +20,11 @@ It's bears repeating!
 
 IT'S BEARS REPEATING!
 
+<figure>
+  <img src="artwork/bears-repeating-tigerlilynoh.png" alt="Drawing of bears repeating, depicting a row of identical bears repeating into infinity." />
+  <figcaption>Bears Repeating by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
+</figure>
+
 #### Attributes
 
 _Large Aberration, Chaotic Evil_
