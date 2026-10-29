@@ -1,10 +1,9 @@
 # October 25th, 2021 (Challenge 24)
 
-Prompt: **Abomination**
+# Bears Repeating
+_Prompt: **Abomination**_
 
-## Bears Repeating
-
-### Description
+## Description
 
 Just as we dare not speak the bear's true name for fear of summoning its wrath, there is a turn of phrase of equal power and danger that would be best avoided. It comes up innocently enough in casual conversation, when a point has been previously made and is reiterated for emphasis, but this simple statement is enough to draw the ire of a terrifying ursine threat from outside of time and space.
 
@@ -25,7 +24,7 @@ IT'S BEARS REPEATING!
   <figcaption>Bears Repeating by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
 </figure>
 
-### Attributes
+## Attributes
 
 _Large Aberration, Chaotic Neutral_
 
@@ -45,7 +44,7 @@ _Large Aberration, Chaotic Neutral_
 **Languages** None<br />
 **CR** 24 (62,000 XP;[^🐻] PB +1 for every Bears Repeating that exists in this world, minimum +2)
 
-### Traits
+## Traits
 
 _**Bears Repeating.**_ Once per world, when the barriers between planes are at their weakest, if someone speaks aloud the phrase "it bears repeating" in normal conversation, the bear is summoned from its hibernation in a pocket dimension and appears in an unoccupied space within 30 feet of its summoner. This bear is identical in appearance to a Brown Bear. Upon being summoned, it viciously attacks all non-bear creatures it can see and will not stop fighting until its summoner dies.
 
@@ -55,7 +54,7 @@ _**Grin and Bear It.**_ When all Bears Repeating in a world are killed, the Bear
 
 _**Keen Bearings.**_ The bear always knows the general direction of its summoner, as long as the two are on the same plane of existence.
 
-### Actions
+## Actions
 
 _**Multiattack.**_ The bear makes a number of attacks equal to its Proficiency Bonus, alternating between its Bite and its Claws for each attack.
 
@@ -67,11 +66,11 @@ _**Spellcasting.**_ The bear casts one of the following spells, requiring no Mat
 
 **1/Day Each:** _Gate_ (targeting its summoner)
 
-### Reactions
+## Reactions
 
 _**Endure (1/Bear).**_ When the bear is reduced to 0 Hit Points, it drops to 1 Hit Point instead, after which it splits as per its Bears Repeating trait.
 
-### Legendary Actions
+## Legendary Actions
 
 _Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the bear can expend a use to take one of the following actions. The bear regains all expended uses at the start of each of its turns._
 
