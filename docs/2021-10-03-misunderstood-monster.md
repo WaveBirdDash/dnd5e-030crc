@@ -1,7 +1,8 @@
 # October 3rd, 2021 (Challenge 2)
 
 # Werechimp
-_Prompt: **Misunderstood Monster**_
+_Prompt: **Misunderstood Monster**_<br />
+([original post](https://wavebirddash.tumblr.com/post/664035139355033600/030crc-october3-werechimp))
 
 ## Description
 

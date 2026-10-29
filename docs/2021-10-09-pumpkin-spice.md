@@ -1,7 +1,8 @@
 # October 9th, 2021 (Challenge 8)
 
 # Barista Dryad
-_Prompt: **Pumpkin Spice**_
+_Prompt: **Pumpkin Spice**_<br />
+([original post](https://wavebirddash.tumblr.com/post/664578727333822464/030crc-october-9-pumpkin-spice))
 
 ## Description
 

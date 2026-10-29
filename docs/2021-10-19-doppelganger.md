@@ -1,7 +1,8 @@
 # October 19th, 2021 (Challenge 18)
 
 # Grass Warrior
-_Prompt: **Doppelgänger**_
+_Prompt: **Doppelgänger**_<br />
+([original post](https://wavebirddash.tumblr.com/post/665484688310304768/030crc-october-19-grass-warrior))
 
 ## Description
 

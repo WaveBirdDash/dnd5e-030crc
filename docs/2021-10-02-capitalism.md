@@ -1,7 +1,8 @@
 # October 2nd, 2021 (Challenge 1)
 
 # Avatar of Debt
-_Prompt: **Capitalism**_
+_Prompt: **Capitalism**_<br />
+([original post](https://wavebirddash.tumblr.com/post/663944568865177600/030crc-october-2-avatar-of-debt))
 
 ## Description
 

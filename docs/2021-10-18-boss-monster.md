@@ -1,7 +1,8 @@
 # October 18th, 2021 (Challenge 17)
 
 #
-_Prompt: **Boss Monster**_
+_Prompt: **Boss Monster**_<br />
+([original post](https://wavebirddash.tumblr.com/post/665394118287065088/030crc-october-18-the-boss-from-hell))
 
 
 ---

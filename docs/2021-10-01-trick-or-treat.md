@@ -1,7 +1,8 @@
 # October 1st, 2021 (Challenge 0)
 
 # Trickered Treat
-_Prompt: **Trick-or-Treat**_
+_Prompt: **Trick-or-Treat**_<br />
+([original post](https://wavebirddash.tumblr.com/post/663854185761128448/030crc-october-1-trick-or-treat))
 
 ## Description
 

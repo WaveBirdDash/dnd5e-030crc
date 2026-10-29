@@ -1,7 +1,8 @@
 # October 8th, 2021 (Challenge 7)
 
 # False Shadow
-_Prompt: **Psychopomp**_
+_Prompt: **Psychopomp**_<br />
+([original post](https://wavebirddash.tumblr.com/post/664488139141824512/030crc-october-8-false-shadow))
 
 ## Description
 

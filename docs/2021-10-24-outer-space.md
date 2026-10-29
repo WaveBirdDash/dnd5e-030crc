@@ -1,7 +1,8 @@
 # October 24th, 2021 (Challenge 23)
 
 #
-_Prompt: **Outer Space**_
+_Prompt: **Outer Space**_<br />
+([original post](https://wavebirddash.tumblr.com/post/665937679324692480/030crc-october24-void-dragon))
 
 
 ---

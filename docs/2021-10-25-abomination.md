@@ -1,7 +1,8 @@
 # October 25th, 2021 (Challenge 24)
 
 # Bears Repeating
-_Prompt: **Abomination**_
+_Prompt: **Abomination**_<br />
+([original post](https://wavebirddash.tumblr.com/post/666028265720397824/030crc-october25-bears-repeating))
 
 ## Description
 
