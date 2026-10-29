@@ -3,7 +3,13 @@
 #
 _Prompt: **This Is Not a Place of Honor**_
 
+<div align="center">
+
 ---
 
 | ⬅️ [October 29th: Kaiju](2021-10-29-kaiju.md) | [Home 🏡](index.md) | [October 31st: Chaos](2021-10-31-chaos.md) ➡️ |
 |:-|:-:|-:|
+
+---
+
+</div>

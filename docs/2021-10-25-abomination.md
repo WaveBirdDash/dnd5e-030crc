@@ -50,7 +50,7 @@ _**Bears Repeating.**_ Once per world, when the barriers between planes are at t
 
 If the bear takes damage but isn't reduced to 0 Hit Points, it splits into two new Bears Repeating with full Hit Points and an unused Endure reaction. Each new bear shares the original bear's Initiative count and aggression, but it initially treats the creature that dealt the damage as its summoner. A bear will revert its aggression to the original summoner when its current summoner dies, or if its summoner is another bear.
 
-_**Grin and Bear It.**_ When all Bears Repeating in a world are killed, the Bears Reepeating gains a new body in its pocket dimension lair, reviving with all its Hit Points and resuming its hibernation, awaiting the day another world summons it. The bear can only be permanently destroyed if killed in its pocket dimension lair.
+_**Grin and Bear It.**_ When all Bears Repeating in a world are killed, the Bears Repeating gains a new body in its pocket dimension lair, reviving with all its Hit Points and resuming its hibernation, awaiting the day another world summons it. The bear can only be permanently destroyed if killed in its pocket dimension lair.
 
 _**Keen Bearings.**_ The bear always knows the general direction of its summoner, as long as the two are on the same plane of existence.
 
@@ -77,6 +77,7 @@ _Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn
 _**Bear Arms.**_ The bear makes one Claws attack.
 
 _**Bear Down.**_ The bear casts _Plane Shift_, using the same spellcasting ability as Spellcasting. The spell's target destination is an unoccupied space within 30 feet of its summoner. The spell fails if the bear and its summoner are on the same plane of existence. The bear can't take this action again until the start of its next turn.
+<div align="center">
 
 ---
 
@@ -85,4 +86,5 @@ _**Bear Down.**_ The bear casts _Plane Shift_, using the same spellcasting abili
 
 ---
 
+</div>
 [^🐻]: Challenge rating and XP are shared across all Bears Repeating in a single world, treating them as a single encounter for the purpose of calculating challenge and rewards. All Bears Repeating must be defeated for rewards to be distributed. If you choose to instead track individual bear XP, its stats are identical to a Brown Bear, so you can reward 200 XP per bear, then grant the remainder of the 62,000 XP pool when the final bear is defeated.
