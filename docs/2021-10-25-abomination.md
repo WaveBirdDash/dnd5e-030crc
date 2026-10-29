@@ -49,9 +49,9 @@ _Large Aberration, Chaotic Neutral_
 
 _**Bears Repeating.**_ Once per world, when the barriers between planes are at their weakest, if someone speaks aloud the phrase "it bears repeating" in normal conversation, the bear is summoned from its hibernation in a pocket dimension and appears in an unoccupied space within 30 feet of its summoner. This bear is identical in appearance to a Brown Bear. Upon being summoned, it viciously attacks all non-bear creatures it can see and will not stop fighting until its summoner dies.
 
-If the bear takes damage but isn't reduced to 0 Hit Points, it splits into two new Bears Repeating with full Hit Points and an unused Endure reaction. Each new bear shares the original bear's Initiative count and aggression, but it initially treats the creature that dealt the damage as its summoner. A bear will revert its aggression to the original summoner when its current summoner dies, or if its summoner is another bear.
+If the bear takes damage but isn't reduced to 0 Hit Points, it splits into two new Bears Repeating with full Hit Points. Each new bear shares the original bear's Initiative count and aggression, but it initially treats the creature that dealt the damage as its summoner. A bear will revert its aggression to the original summoner when its current summoner dies, or if its summoner is another bear.
 
-_**Grin and Bear It.**_ When all Bears Repeating in a world are killed, the Bears Repeating gains a new body in its pocket dimension lair, reviving with all its Hit Points and resuming its hibernation, awaiting the day another world summons it. The bear can only be permanently destroyed if killed in its pocket dimension lair.
+_**Hibernation.**_ When all Bears Repeating in a world are killed, the Bears Repeating gains a new body in its pocket dimension lair, reviving with all its Hit Points and resuming its hibernation, awaiting the day another world summons it. The bear can only be permanently destroyed if killed in its pocket dimension lair.
 
 _**Keen Bearings.**_ The bear always knows the general direction of its summoner, as long as the two are on the same plane of existence.
 
@@ -69,7 +69,7 @@ _**Spellcasting.**_ The bear casts one of the following spells, requiring no Mat
 
 ## Reactions
 
-_**Endure (1/Bear).**_ When the bear is reduced to 0 Hit Points, it drops to 1 Hit Point instead, after which it splits as per its Bears Repeating trait.
+_**Grin and Bear It (1/Bear).**_ When the bear is reduced to 0 Hit Points, it drops to 1 Hit Point instead, after which it splits as per its Bears Repeating trait.
 
 ## Legendary Actions
 
