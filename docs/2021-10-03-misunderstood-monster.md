@@ -23,7 +23,7 @@ A character cursed with werechimp lycanthropy gains a Strength of 16 if their sc
 
 _Medium humanoid (any species, shapechanger)_
 
-**AC** 12<br />
+**AC** 12 **Initiative** +2 (12)<br />
 **HP** 39 (6d8 + 12)<br />
 **Speed** 30 ft. in humanoid form; 30 ft., climb 30 ft. in chimp and hybrid form
 

@@ -31,7 +31,7 @@ _**Audit.**_ You summon an avatar of debt – a ghostly skeleton creature clad i
 
 _Medium undead, lawful evil_
 
-**AC** 13<br />
+**AC** 13 **Initiative** +3 (13)<br />
 **HP** half the Hit Point Maximum of their summoner<br />
 **Speed** 60 ft., fly 60 ft. (hover)
 

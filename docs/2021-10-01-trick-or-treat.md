@@ -58,7 +58,7 @@ The more children a hag has wandering their premises looking for handouts, the b
 
 _Medium swarm of Tiny constructs, same alignment as its creator_
 
-**AC** 12<br />
+**AC** 12 **Initiative** +2 (12)<br />
 **Hit Points** 28 (4d8 + 10)<br />
 **Speed** 0 ft., fly 10 ft.
 

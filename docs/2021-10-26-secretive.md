@@ -29,7 +29,7 @@ Farmers and hunters in the region might revere the Stag as a minor deity, but th
 
 _Large fey (archfey), chaotic neutral_
 
-**AC** 20 (natural armor)<br />
+**AC** 20 **Initiative** +13 (23)<br />
 **HP** 607 (45d10 + 270)<br />
 **Speed** 60 ft.
 
