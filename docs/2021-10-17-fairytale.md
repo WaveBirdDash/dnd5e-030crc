@@ -3,7 +3,6 @@
 #
 _Prompt: **Fairytale**_
 
-<div align="center">
 
 ---
 
@@ -12,4 +11,3 @@ _Prompt: **Fairytale**_
 
 ---
 
-</div>

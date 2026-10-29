@@ -2,7 +2,6 @@
 
 #
 _Prompt: **B-Movie Monster**_
-<div align="center">
 
 ---
 
@@ -10,4 +9,3 @@ _Prompt: **B-Movie Monster**_
 |:-|:-:|-:|
 
 ---
-</div>

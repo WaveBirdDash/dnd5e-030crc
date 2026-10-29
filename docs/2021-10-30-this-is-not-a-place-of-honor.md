@@ -3,7 +3,6 @@
 #
 _Prompt: **This Is Not a Place of Honor**_
 
-<div align="center">
 
 ---
 
@@ -12,4 +11,3 @@ _Prompt: **This Is Not a Place of Honor**_
 
 ---
 
-</div>

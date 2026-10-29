@@ -27,7 +27,6 @@ _Elemental Evil Player's Companion_ © 2015 Wizards of the Coast LLC.
 _Ghosts of Saltmarsh_ © 2019 Wizards of the Coast LLC.
 
 _Spelljammer: Adventures in Space_ © 2022 Wizards of the Coast LLC.
-<div align="center">
 
 ---
 
@@ -36,4 +35,3 @@ _Spelljammer: Adventures in Space_ © 2022 Wizards of the Coast LLC.
 
 ---
 
-</div>

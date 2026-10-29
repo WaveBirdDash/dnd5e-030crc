@@ -52,7 +52,6 @@ _**Fist.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 
 _**Stone Dagger.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) Piercing damage.
 
 _**Change Shape.**_ The werechimp polymorphs into a chimp–humanoid hybrid or into a chimp, or back into their true form, which is humanoid. Their statistics, other than their speed, are the same in each form. Any equipment they are wearing or carrying isn't transformed. They revert to their humanoid form if they die.
-<div align="center">
 
 ---
 
@@ -61,4 +60,3 @@ _**Change Shape.**_ The werechimp polymorphs into a chimp–humanoid hybrid or i
 
 ---
 
-</div>

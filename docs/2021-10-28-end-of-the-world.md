@@ -3,7 +3,6 @@
 #
 _Prompt: **End of the World**_
 
-<div align="center">
 
 ---
 
@@ -12,4 +11,3 @@ _Prompt: **End of the World**_
 
 ---
 
-</div>

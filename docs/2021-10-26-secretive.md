@@ -87,7 +87,6 @@ Phygius can take 3 Legendary Actions, choosing from the options below. Only one 
 **Shift (Costs 2 Actions).** Phygius magically planeshifts, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, to its corresponding location on the Ethereal Plane, the Feywild, or the Material Plane. Unwilling creatures must succeed on a DC 20 Wisdom Saving Throw or they are teleported along with Phygius. If a creature or object is present at the target location, they must succeed on a DC 23 Dexterity Saving Throw or take 13 (3d8) Force damage and be knocked Prone. Whether the creature or object succeeds or fails on the save, they are pushed to an unoccupied space of Phygius' choice within 10 feet.
 
 **Teleport.** Phygius uses its Teleport action.
-<div align="center">
 
 ---
 
@@ -96,4 +95,3 @@ Phygius can take 3 Legendary Actions, choosing from the options below. Only one 
 
 ---
 
-</div>

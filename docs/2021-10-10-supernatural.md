@@ -68,7 +68,6 @@ _**Multiattack.**_ The angel makes up to three melee attacks.
 _**Angel Blade.**_ _Melee Attack Roll:_ +10 to hit, reach 5 ft.. _Hit:_ 10 (1d8 + 6) Slashing damage, or 11 (1d10 + 6) Slashing damage if used two-handed. When the angel blade hits a Celestial, Fiend, or evil-aligned creature, the attack is a Critical Hit and ignores Resistance for all damage dealt as part of the attack.
 
 _**Healing Touch (3/Day).**_ The angel touches another creature. The target magically regains 14 (3d8 + 1) Hit Points and is freed from any curse, poison, blindness, or deafness.
-<div align="center">
 
 ---
 
@@ -77,4 +76,3 @@ _**Healing Touch (3/Day).**_ The angel touches another creature. The target magi
 
 ---
 
-</div>
