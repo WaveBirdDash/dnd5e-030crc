@@ -39,29 +39,41 @@ _Large Aberration, Chaotic Neutral_
 |**DEX**|12 | +1  |  +1  |**WIS**|13 | +1  |  +1  |
 |**CON**|15 | +2  |  +2  |**CHA**| 7 | -2  |  -2  |
 
-**Skills** Perception +8<br />
-**Senses** Darkvision 60 ft.; Passive Perception 18<br />
+**Skills** Perception +1 plus PB<br />
+**Immunities** Exhaustion<br />
+**Senses** Darkvision 60 ft.; Passive Perception 11 plus PB<br />
 **Languages** None<br />
-**CR** 24 (62,000 XP; PB +7)[^🐻]
+**CR** 24 (62,000 XP;[^🐻] PB +1 for every Bears Repeating that exists in this world, minimum +2)
 
 #### Traits
-_**Pack Tactics.**_ The bear has Advantage on an attack roll against a creature if at least one of the bear's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-_**Bears Repeating.**_ Once per world, when the barriers between planes are at their weakest, if someone speaks aloud the phrase "it bears repeating" in normal conversation, the bear is summoned from its slumber in a pocket dimension and appears in a random space within 20 feet of the speaker. This bear is identical in appearance to a brown bear. Upon being summoned, it viciously attacks all non-bear creatures it can see and will not stop fighting until it or the original summoner dies.
+_**Bears Repeating.**_ Once per world, when the barriers between planes are at their weakest, if someone speaks aloud the phrase "it bears repeating" in normal conversation, the bear is summoned from its slumber in a pocket dimension and appears in an unoccupied space within 30 feet of its summoner. This bear is identical in appearance to a Brown Bear. Upon being summoned, it viciously attacks all non-bear creatures it can see and will not stop fighting until its summoner dies.
 
-Additionally, if the bear takes damage but isn't reduced to 0 Hit Points, it splits into two new Bears Repeating with full Hit Points that share the original bear's aggression.
+If the bear takes damage but isn't reduced to 0 Hit Points, it splits into two new Bears Repeating with full Hit Points and an unused Endure reaction. Each new bear shares the original bear's Initiative count and aggression, but it initially treats the creature that dealt the damage as its summoner. A bear will revert its aggression to the original summoner when its current summoner dies, or if its summoner is another bear.
+
+_**Keen Bearings.**_ The bear always knows the general direction of its summoner, as long as the two are on the same plane of existence.
 
 #### Actions
 
-_**Multiattack.**_ The bear makes a number of attacks equal to the total number of Bears Repeating that exist in this world (including itself), alternating between its Bite and its Claws for each attack.
+_**Multiattack.**_ The bear makes a number of attacks equal to its Proficiency Bonus, alternating between its Bite and its Claws for each attack.
 
-_**Bite.**_ _Melee Attack Roll:_ +10 to hit, reach 5 ft. _Hit:_ 7 (1d8 + 3) Piercing damage.
+_**Bite.**_ _Melee Attack Roll:_ +3 plus PB to hit, reach 5 ft. _Hit:_ 7 (1d8 + 3) Piercing damage.
 
-_**Claws.**_ _Melee Attack Roll:_ +10 to hit, reach 5 ft. _Hit:_ 5 (1d4 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
+_**Claws.**_ _Melee Attack Roll:_ +3 plus PB to hit, reach 5 ft. _Hit:_ 5 (1d4 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
+
+_**Spellcasting.**_ The bear casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 9 plus PB):
+
+**1/Day Each:** _Gate_ (targeting its summoner)
 
 #### Reactions
 
 _**Endure (1/Bear).**_ When the bear is reduced to 0 Hit Points, it drops to 1 Hit Point instead, after which it splits as per its Bears Repeating trait.
+
+#### Legendary Actions
+
+_Legendary Action Uses: 3. Immediately after another creature's turn, the bear can expend a use to take one of the following actions. The bear regains all expended uses at the start of each of its turns._
+
+_**Bear Down.**_ The bear casts _Plane Shift_, using the same spellcasting ability as Spellcasting. The spell's target destination is an unoccupied space within 30 feet of its summoner. The spell fails if the bear and its summoner are on the same plane of existence. The bear can't take this action again until the start of its next turn.
 
 ---
 
@@ -70,4 +82,4 @@ _**Endure (1/Bear).**_ When the bear is reduced to 0 Hit Points, it drops to 1 H
 
 ---
 
-[^🐻]: Challenge rating and XP are shared across all Bears Repeating in a single world, treating them as a single encounter for the purpose of calculating challenge and rewards. All Bears Repeating must be defeated for rewards to be distributed.
+[^🐻]: Challenge rating and XP are shared across all Bears Repeating in a single world, treating them as a single encounter for the purpose of calculating challenge and rewards. All Bears Repeating must be defeated for rewards to be distributed. If you choose to instead track individual bear XP, its stats are identical to a Brown Bear, so you can reward 200 XP per bear, then grant the remainder of the 62,000 XP pool when the final bear is defeated.
