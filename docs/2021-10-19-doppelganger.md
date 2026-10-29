@@ -1,16 +1,15 @@
 # October 19th, 2021 (Challenge 18)
 
-Prompt: **Doppelgänger**
+# Grass Warrior
+_Prompt: **Doppelgänger**_
 
-### Grass Warrior
-
-#### Description
+## Description
 
 Crafted by a reclusive mage obsessed with puns, the Blade of Grass is a powerful magic weapon without equal, capable of slicing through foes as if made of the hardest steel. But the mage infused within the fibers of this sword a deep craving for lethal combat, and the sword imparts this desire on its wielder. If held by a warrior who cannot keep up with its bloodlust, the weapon saps life energy from its owner instead, draining them until they have nothing left to give. At that moment, the blade destroys the body and crafts a replacement of grass and straw, creating a grass warrior.
 
 Even in death, this hollow reflection of the weapon's wielder is not allowed rest, and the warrior spends all its waking hours seeking out worthy opponents in one-on-one duels, as the Blade of Grass wishes to find a capable warrior who will carry it forward to future glory in battle. Once it finds someone capable of defeating its former owner, it transfers to the victor and the cycle begins anew.
 
-#### Blade of Grass
+## Blade of Grass
 
 _Weapon (Longsword), Legendary, Requires Attunement_
 
@@ -27,7 +26,7 @@ Once per day, you can cast _Ensnare_ through the Blade of Grass, requiring no Co
   <figcaption>Grass Warrior by <a href="https://tigerlilynoh.tumblr.com/">TigerLilyNoh</a></figcaption>
 </figure>
 
-#### Attributes
+## Attributes
 
 _Medium Plant, Chaotic Evil_
 
@@ -50,7 +49,7 @@ _Medium Plant, Chaotic Evil_
 **Languages** understands Common but can't speak<br />
 **CR** 18 (20,000 XP; PB +6)
 
-#### Traits
+## Traits
 
 _**Evasion.**_ If the grass warrior is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the warrior instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
@@ -60,7 +59,7 @@ _**Magic Resistance.**_ The grass warrior has advantage on saving throws against
 
 _**Magic Weapons.**_ The grass warrior’s weapon attacks are magical.
 
-#### Actions
+## Actions
 
 _**Multiattack.**_ The grass warrior makes three attacks with the Blade of Grass.
 
@@ -68,7 +67,7 @@ _**Blade of Grass.**_ _Melee Attack Roll:_ +11 to hit, reach 5 ft.. _Hit:_ 14 (2
 
 _**Entangle (3/Day).**_ The grass warrior magically compels plants to ensnare a target of its choice within 10 feet. The target must succeed on a DC 19 Dexterity saving throw or become grappled and restrained (escape DC 19). The entangling plant growth has AC 10, 10 hit points, and is vulnerable to fire and slashing damage.
 
-#### Reactions
+## Reactions
 
 _**Parry.**_ The grass warrior adds 2 to its AC against one melee attack that would hit it. To do so, the warrior must see the attacker.
 

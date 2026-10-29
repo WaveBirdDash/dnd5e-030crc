@@ -1,8 +1,7 @@
 # October 26th, 2021 (Challenge 26)
 
-Prompt: **Mythology**
-
-###
+#
+_Prompt: **Mythology**_
 
 ---
 

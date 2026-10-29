@@ -1,8 +1,7 @@
 # October 16th, 2021 (Challenge 15)
 
-Prompt: **Prehistoric**
-
-###
+#
+_Prompt: **Prehistoric**_
 
 ---
 

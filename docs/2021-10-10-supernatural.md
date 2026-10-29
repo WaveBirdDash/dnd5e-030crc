@@ -1,10 +1,9 @@
 # October 10th, 2021 (Challenge 9)
 
-Prompt: **Supernatural**
+# Fallen Angel
+_Prompt: **Supernatural**_
 
-### Fallen Angel
-
-#### Description
+## Description
 
 Though an angelic being is generally honor-bound to the god it serves, on occasion one will question its orders and potentially defy them. An angel that falls in this manner loses some of its connection to its deity's divine grace.
 
@@ -12,7 +11,7 @@ Perhaps the most famous fallen angel is Zariel, who made a deal with Asmodeus to
 
 Even after falling from grace, an angel will typically retain ownership of its angel blade, a powerful weapon designed to pierce evil hearts. It is perhaps a slight oversight of the blade's creators that it is equally effective against other angels, and that this power persists even in the hands of mortals. A rare person that comes across an angel blade will find itself in possession of a mighty power to wield against any foe.
 
-#### Angel Blade
+## Angel Blade
 
 _Weapon (Longsword), Rare, Requires Attunement_
 
@@ -25,7 +24,7 @@ You gain a +2 bonus to attack and damage rolls made with this weapon. When you h
   <figcaption>Fallen Angel by <a href="https://tigerlilynoh.tumblr.com/">TigerLilyNoh</a></figcaption>
 </figure>
 
-#### Attributes
+## Attributes
 
 _Medium Celestial, Chaotic Good_
 
@@ -48,7 +47,7 @@ _Medium Celestial, Chaotic Good_
 
 **CR** 9 (5,000 XP; PB +4)
 
-#### Traits
+## Traits
 
 _**Corrupted Grace.**_ The angel’s weapon attacks are magical. When the angel hits with any weapon, the weapon deals an extra 9 (2d8) necrotic damage.
 
@@ -62,7 +61,7 @@ At will: _bane_, _detect evil and good_
 
 _**Magic Resistance.**_ The angel has advantage on saving throws against spells and other magical effects.
 
-#### Actions
+## Actions
 
 _**Multiattack.**_ The angel makes up to three melee attacks.
 

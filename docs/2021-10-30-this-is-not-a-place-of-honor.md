@@ -1,8 +1,7 @@
 # October 30th, 2021 (Challenge 29)
 
-Prompt: **This Is Not a Place of Honor**
-
-###
+#
+_Prompt: **This Is Not a Place of Honor**_
 
 ---
 

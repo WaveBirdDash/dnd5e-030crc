@@ -1,10 +1,9 @@
 # October 26th, 2021 (Challenge 25)
 
-Prompt: **Secretive**
+# Phygius
+_Prompt: **Secretive**_
 
-### Phygius
-
-#### Description
+## Description
 
 Legend speaks of a giant deer with three massive horns atop its head, which appears and disappears within a forest tangled in planar energies. It is from these scarce sightings in the distant past that the [Middlestag Forest](https://wavebirddash.github.io/dnd5e-mote/ch-4-esterfell-gazetteer/esterfell/lenya/middlestag-forest.html) was given its name, but none of the local families have any more context on what the Middlestag is, where it comes from, and what it might want when it shows itself. Some have reported seeing this mighty creature appear to rapidly flicker in and out of existence, making it unclear whether what they saw was even real.
 
@@ -25,7 +24,7 @@ Farmers and hunters in the region might revere the Stag as a minor deity, but th
   <figcaption>Phygius by <a href="https://twitter.com/200dollarHaru">Haru</a></figcaption>
 </figure>
 
-#### Attributes
+## Attributes
 
 _Large fey (archfey), chaotic neutral_
 
@@ -45,7 +44,7 @@ _Large fey (archfey), chaotic neutral_
 **Languages** Druidic, Sylvan, telepathy 120 ft.<br />
 **CR** 25 (75,000 XP) **Proficiency Bonus** +8
 
-#### Traits
+## Traits
 
 _**Innate Spellcasting.**_ Phygius' innate spellcasting ability is Charisma (Spell Save DC 24). It can innately cast the following spells, requiring no components:
 
@@ -65,7 +64,7 @@ _**Magic Weapons.**_ Phygius' weapon attacks are magical.
 
 _**Regeneration.**_ Phygius regains 20 Hit Points at the start of its turn. If it takes Necrotic damage, this trait doesn't function at the start of its next turn. Phygius dies only if it starts its turn with 0 Hit Points and doesn't regenerate.
 
-#### Actions
+## Actions
 
 _**Multiattack.**_ Phygius makes up to two attacks, one with its horns and one with its hooves.
 
@@ -73,13 +72,13 @@ _**Horns.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_
 
 _**Hooves.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 34 (6d8 + 7) Bludgeoning damage plus 14 (4d6) Thunder damage, and if they are a creature, they must succeed on a DC 22 Strength Saving Throw or be knocked Prone.
 
-#### Bonus Actions
+## Bonus Actions
 
 _**Fear Gaze.**_ Phygius stares at a creature within 30 feet of it and fills their mind with fear. The creature must make a DC 24 Wisdom Saving Throw. Unless the save succeeds, the creature is Frightened until the start of their next turn. If a creature's Saving Throw is successful, the creature is immune to Phygius' Fear Aura for the next 24 hours.
 
 _**Teleport.**_ Phygius magically teleports, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, up to 120 feet to an unoccupied space it can see. Unwilling creatures must succeed on a DC 18 Wisdom Saving Throw or they are teleported along with Phygius.
 
-#### Legendary Actions
+## Legendary Actions
 
 Phygius can take 3 Legendary Actions, choosing from the options below. Only one Legendary Action option can be used at a time and only at the end of another creature's turn. Phygius regains spent Legendary Actions at the start of its turn.
 

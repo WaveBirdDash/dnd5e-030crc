@@ -1,10 +1,9 @@
 # October 9th, 2021 (Challenge 8)
 
-Prompt: **Pumpkin Spice**
+# Barista Dryad
+_Prompt: **Pumpkin Spice**_
 
-### Barista Dryad
-
-#### Description
+## Description
 
 Most dryads act as sworn protectors of the forests they inhabit, preventing incursion by the men of the world who would exploit the land for personal gain. Their lives are intrinsically tied to their trees, and as long as the forest thrives, so too do the dryads. The death of the forest will mark the end of a dryad's otherwise unending lifespan.
 
@@ -21,7 +20,7 @@ Particularly mischievous dryads might use their fey ability to take the names of
   <figcaption>Barista Dryad by <a href="https://ko-fi.com/globaldad">GlobalDad</a></figcaption>
 </figure>
 
-#### Attributes
+## Attributes
 
 _Medium Fey, Lawful Neutral_
 
@@ -40,13 +39,13 @@ _Medium Fey, Lawful Neutral_
 **Languages** Common, Elvish, Sylvan<br />
 **CR** 8 (XP 3,900; PB +3)
 
-### Traits
+## Traits
 
 _**Magic Resistance.**_ The dryad has advantage on saving throws against spells and other magical effects.
 
 _**Tree Stride.**_ Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 120 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
 
-### Actions
+## Actions
 
 _**Spellcasting.**_ The dryad casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
@@ -68,7 +67,7 @@ Each time the dryad or her allies do anything harmful to the target, it can end 
 
 _**Flavor Pump.**_ The dryad poisons one drink within 5 feet. A drink poisoned in this manner takes on a random sweet flavor which magically obscures the poison from detection. A creature that ingests the drink must succeed on a DC 14 Constitution saving throw or become Poisoned for 1 hour. Roll on the **Flavor Pump** table to determine the poisoned drink's additional effect. Ingesting multiple drinks will potentially stack multiple effects but does not change the duration of the Poisoned condition.
 
-##### Flavor Pump (d10 table)
+### Flavor Pump (d10 table)
 
 - 1: **Almond.** The Poisoned creature is disoriented for 1 minute or until it takes damage. At the start of each of its turns, the disoriented creature spends all its movement to move in a random direction until it reaches a barrier. If the movement would put it in dangerous terrain (such as a precipice or caltrops), it can stop its movement before entering that space by succeeding on a DC 10 Dexterity saving throw.
 - 2: **Caramel.** The Poisoned creature has the Stunned condition for 1 minute. At the end of each of its turns, it can repeat the saving throw to end the Poisoned and Stunned conditions.

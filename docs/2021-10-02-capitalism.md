@@ -1,10 +1,9 @@
 # October 2nd, 2021 (Challenge 1)
 
-Prompt: **Capitalism**
+# Avatar of Debt
+_Prompt: **Capitalism**_
 
-### Avatar of Debt
-
-#### Description
+## Description
 
 > 'Tis impossible to be sure of any thing but Death and Taxes.
 
@@ -16,7 +15,7 @@ Though the scythe of this grim spectre looks intimidating, it draws neither bloo
 
 Any taxes the avatar collects are stowed away in a pocket dimension only they can access. If the avatar is reduced to 0 Hit Points, their pocket dimension collapses and their collected taxes appear on the ground where they previously stood.
 
-##### Summoning an Avatar of Debt
+## Summoning an Avatar of Debt
 
 The Dungeon Master may opt to replace the Ruin card from a _Deck of Many Things_ with the Audit card, which behaves as follows when drawn:
 
@@ -27,7 +26,7 @@ _**Audit.**_ You summon an avatar of debt – a ghostly skeleton creature clad i
   <figcaption>Avatar of Debt by <a href="https://linktr.ee/RedDrawnArt">RedDrawn Art</a></figcaption>
 </figure>
 
-#### Attributes
+## Attributes
 
 _Medium undead, lawful evil_
 
@@ -50,7 +49,7 @@ _Medium undead, lawful evil_
 **Languages** all languages known of their summoner<br />
 **CR** equal to the summoner's level or challenge rating, minimum 1 (200 XP)[^💀]
 
-#### Traits
+## Traits
 
 _**Ledger Domain.**_ If the creature that summoned the avatar has no wealth in physical coinage, the avatar immediately teleports to their pocket dimension and cannot be summoned again by that creature for one year.
 
@@ -60,7 +59,7 @@ _**Incorporeal Movement.**_ The avatar can move through other creatures and obje
 
 _**Turning Immunity.**_ The avatar is immune to features that turn undead.
 
-#### Actions
+## Actions
 
 _**Taxes.**_ The avatar sweeps their spectral scythe through a creature within 5 feet of them. Roll a number of d12s equal to half the summoner's level or challenge rating (round down, minimum 1). A number of random coins equal to the dice roll immediately disappears from the target's wealth and reappears in the avatar's pocket dimension, and the avatar regains a number of Hit Points equal to the number of coins they take.
 
