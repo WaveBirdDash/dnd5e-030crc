@@ -73,6 +73,8 @@ _**Endure (1/Bear).**_ When the bear is reduced to 0 Hit Points, it drops to 1 H
 
 _Legendary Action Uses: 3. Immediately after another creature's turn, the bear can expend a use to take one of the following actions. The bear regains all expended uses at the start of each of its turns._
 
+_**Bear Arms.** The bear makes one Claws attack.
+
 _**Bear Down.**_ The bear casts _Plane Shift_, using the same spellcasting ability as Spellcasting. The spell's target destination is an unoccupied space within 30 feet of its summoner. The spell fails if the bear and its summoner are on the same plane of existence. The bear can't take this action again until the start of its next turn.
 
 ---
