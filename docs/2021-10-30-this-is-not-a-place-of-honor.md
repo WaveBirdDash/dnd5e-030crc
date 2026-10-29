@@ -1,9 +1,9 @@
 # October 30th, 2021 (Challenge 29)
 
 #
-_Prompt: **This Is Not a Place of Honor**_
+_Prompt: **This Is Not a Place of Honor**_<br />
+([original post](https://wavebirddash.tumblr.com/post/666481230595899392/030crc-october30-echoes-of-a-failed-world))
 
-<div align="center">
 
 ---
 
@@ -12,4 +12,3 @@ _Prompt: **This Is Not a Place of Honor**_
 
 ---
 
-</div>

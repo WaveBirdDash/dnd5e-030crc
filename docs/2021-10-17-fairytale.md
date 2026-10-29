@@ -1,9 +1,9 @@
 # October 17th, 2021 (Challenge 16)
 
 #
-_Prompt: **Fairytale**_
+_Prompt: **Fairytale**_<br />
+([original post](https://wavebirddash.tumblr.com/post/665303496091992064/030crc-october-17-passenger-sprites))
 
-<div align="center">
 
 ---
 
@@ -12,4 +12,3 @@ _Prompt: **Fairytale**_
 
 ---
 
-</div>

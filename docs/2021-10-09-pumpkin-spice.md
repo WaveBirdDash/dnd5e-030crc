@@ -1,7 +1,8 @@
 # October 9th, 2021 (Challenge 8)
 
 # Barista Dryad
-_Prompt: **Pumpkin Spice**_
+_Prompt: **Pumpkin Spice**_<br />
+([original post](https://wavebirddash.tumblr.com/post/664578727333822464/030crc-october-9-pumpkin-spice))
 
 ## Description
 
@@ -79,7 +80,6 @@ _**Flavor Pump.**_ The dryad poisons one drink within 5 feet. A drink poisoned i
 - 8: **Peppermint.** The Poisoned creature takes 14 (4d6) Cold damage, and its Speed is halved for 1 minute.
 - 9: **Pumpkin Spice.** The Poisoned creature has an intense craving for the dryad's drinks for 1 minute or until it consumes another dryad drink. While in this state, it must spend its entire turn seeking out and consuming these drinks. At the end of each of its turns, it can end the craving by succeeding on a DC 13 Wisdom saving throw.
 - 10: **Vanilla.** The Poisoned creature rolls on a **Wild Magic Surge** table.
-<div align="center">
 
 ---
 
@@ -88,4 +88,3 @@ _**Flavor Pump.**_ The dryad poisons one drink within 5 feet. A drink poisoned i
 
 ---
 
-</div>

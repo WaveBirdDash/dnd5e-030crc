@@ -1,7 +1,8 @@
 # October 2nd, 2021 (Challenge 1)
 
 # Avatar of Debt
-_Prompt: **Capitalism**_
+_Prompt: **Capitalism**_<br />
+([original post](https://wavebirddash.tumblr.com/post/663944568865177600/030crc-october-2-avatar-of-debt))
 
 ## Description
 
@@ -64,7 +65,6 @@ _**Turning Immunity.**_ The avatar is immune to features that turn undead.
 _**Taxes.**_ The avatar sweeps their spectral scythe through a creature within 5 feet of them. Roll a number of d12s equal to half the summoner's level or challenge rating (round down, minimum 1). A number of random coins equal to the dice roll immediately disappears from the target's wealth and reappears in the avatar's pocket dimension, and the avatar regains a number of Hit Points equal to the number of coins they take.
 
 The tax is collected even if the creature's wealth is not under their current physical possession; the coins will be removed from any chest, bank, loan to another creature, extradimensional space, or any other location or plane, as long as the wealth exists as physical coinage.
-<div align="center">
 
 ---
 
@@ -73,5 +73,4 @@ The tax is collected even if the creature's wealth is not under their current ph
 
 ---
 
-</div>
 [^💀]: Technically, the avatar of debt breaks D&D's challenge rating system; in addition to their scaling Hit Point Maximum (similar to the avatar of death), the avatar cannot deal damage, and thus on its face presents no challenge beyond time spent. But the impact on wealth could be devastating to some players or campaigns, regardless of level. For the purpose of this project, we'll call the avatar a CR1, as a 1st level character should be able to defeat it, and in any case won't die even if the avatar wins the encounter.

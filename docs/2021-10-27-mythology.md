@@ -1,9 +1,9 @@
 # October 26th, 2021 (Challenge 26)
 
 #
-_Prompt: **Mythology**_
+_Prompt: **Mythology**_<br />
+([original post](https://wavebirddash.tumblr.com/post/666209470752440320/030crc-october27-thunderbird))
 
-<div align="center">
 
 ---
 
@@ -12,4 +12,3 @@ _Prompt: **Mythology**_
 
 ---
 
-</div>

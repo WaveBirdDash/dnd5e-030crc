@@ -1,9 +1,9 @@
 # October 28th, 2021 (Challenge 27)
 
 #
-_Prompt: **End of the World**_
+_Prompt: **End of the World**_<br />
+([original post](https://wavebirddash.tumblr.com/post/666300043676041216/030crc-october28-gray-goo))
 
-<div align="center">
 
 ---
 
@@ -12,4 +12,3 @@ _Prompt: **End of the World**_
 
 ---
 
-</div>

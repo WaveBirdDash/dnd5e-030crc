@@ -1,7 +1,8 @@
 # October 25th, 2021 (Challenge 24)
 
 # Bears Repeating
-_Prompt: **Abomination**_
+_Prompt: **Abomination**_<br />
+([original post](https://wavebirddash.tumblr.com/post/666028265720397824/030crc-october25-bears-repeating))
 
 ## Description
 
@@ -77,7 +78,6 @@ _Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn
 _**Bear Arms.**_ The bear makes one Claws attack.
 
 _**Bear Down.**_ The bear casts _Plane Shift_, using the same spellcasting ability as Spellcasting. The spell's target destination is an unoccupied space within 30 feet of its summoner. The spell fails if the bear and its summoner are on the same plane of existence. The bear can't take this action again until the start of its next turn.
-<div align="center">
 
 ---
 
@@ -86,5 +86,4 @@ _**Bear Down.**_ The bear casts _Plane Shift_, using the same spellcasting abili
 
 ---
 
-</div>
 [^🐻]: Challenge rating and XP are shared across all Bears Repeating in a single world, treating them as a single encounter for the purpose of calculating challenge and rewards. All Bears Repeating must be defeated for rewards to be distributed. If you choose to instead track individual bear XP, its stats are identical to a Brown Bear, so you can reward 200 XP per bear, then grant the remainder of the 62,000 XP pool when the final bear is defeated.

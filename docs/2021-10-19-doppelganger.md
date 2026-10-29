@@ -1,7 +1,8 @@
 # October 19th, 2021 (Challenge 18)
 
 # Grass Warrior
-_Prompt: **Doppelgänger**_
+_Prompt: **Doppelgänger**_<br />
+([original post](https://wavebirddash.tumblr.com/post/665484688310304768/030crc-october-19-grass-warrior))
 
 ## Description
 
@@ -70,7 +71,6 @@ _**Entangle (3/Day).**_ The grass warrior magically compels plants to ensnare a 
 ## Reactions
 
 _**Parry.**_ The grass warrior adds 2 to its AC against one melee attack that would hit it. To do so, the warrior must see the attacker.
-<div align="center">
 
 ---
 
@@ -79,4 +79,3 @@ _**Parry.**_ The grass warrior adds 2 to its AC against one melee attack that wo
 
 ---
 
-</div>
