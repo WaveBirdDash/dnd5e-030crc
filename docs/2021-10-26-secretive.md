@@ -41,7 +41,7 @@ _Large fey (archfey), chaotic neutral_
 
 **Skills** Insight +13, Intimidation +16, Perception +15, Persuasion +16<br />
 **Immunities** Blinded, Charmed, Deafened, Force, Frightened, Exhausted, Grappled, Paralyzed, Poisoned, Stunned; Bludgeoning, Piercing, and Slashing from nonmagical attacks<br />
-**Senses** Truesight 120 ft., passive Perception 25<br />
+**Senses** Truesight 120 ft., Passive Perception 25<br />
 **Languages** Druidic, Sylvan, telepathy 120 ft.<br />
 **CR** 25 (75,000 XP) **Proficiency Bonus** +8
 

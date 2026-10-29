@@ -34,7 +34,7 @@ _Medium humanoid (any species, shapechanger)_
 |**CON**|15 | +2  |  +2  |**CHA**|14 | +2  |  +2  |
 
 **Skills** Athletics +5, Intimidation +4, Perception +4<br />
-**Senses** passive Perception 14<br />
+**Senses** Passive Perception 14<br />
 **Languages** Common (can't speak in chimp form)<br />
 **CR** 2 (450 XP) **Proficiency Bonus** +2
 

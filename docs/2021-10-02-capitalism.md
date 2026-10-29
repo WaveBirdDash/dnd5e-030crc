@@ -46,7 +46,7 @@ _Medium undead, lawful evil_
 |**CON**|16 | +3  |  +3  |**CHA**| 4 | -3  |  -3  |
 
 **Immunities** Charmed, Frightened, Necrotic, Paralyzed, Petrified, Poison, Unconscious<br />
-**Senses** Darkvision 60 ft., Truesight 60 ft., passive Perception 14<br />
+**Senses** Darkvision 60 ft., Truesight 60 ft., Passive Perception 14<br />
 **Languages** all languages known of their summoner<br />
 **CR** equal to the summoner's level or challenge rating, minimum 1 (200 XP)[^💀]
 

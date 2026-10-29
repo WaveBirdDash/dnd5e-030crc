@@ -70,7 +70,7 @@ _Medium swarm of Tiny constructs, same alignment as its creator_
 
 **Resistances** Bludgeoning, Piercing, Slashing<br />
 **Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poison, Prone, Restrained, Stunned<br />
-**Senses** blindsight 10 ft. (blind beyond this radius), passive Perception 6<br />
+**Senses** Blindsight 10 ft. (blind beyond this radius), Passive Perception 6<br />
 **Languages** understands the languages of its creator but cannot speak<br />
 **Challenge** ¼ (50 XP) **Proficiency Bonus** +2
 
