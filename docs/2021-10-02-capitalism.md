@@ -50,8 +50,6 @@ _Medium undead, lawful evil_
 - **Languages** all languages known of their summoner
 - **Challenge** equal to the summoner's level or challenge rating, minimum 1 (200 XP)[^💀]
 
-[^💀]: Technically, the avatar of debt breaks D&D's challenge rating system; in addition to their scaling Hit Point Maximum (similar to the avatar of death), the avatar cannot deal damage, and thus on its face presents no challenge beyond time spent. But the impact on wealth could be devastating to some players or campaigns, regardless of level. For the purpose of this project, we'll call the avatar a CR1, as a 1st level character should be able to defeat it, and in any case won't die even if the avatar wins the encounter.
-
 #### Traits
 
 _**Ledger Domain.**_ If the creature that summoned the avatar has no wealth in physical coinage, the avatar immediately teleports to their pocket dimension and cannot be summoned again by that creature for one year.
@@ -72,3 +70,7 @@ The tax is collected even if the creature's wealth is not under their current ph
 
 | ⬅️ [October 1st: Trick-or-Treat](2021-10-01-trick-or-treat.md) | [Home 🏡](index.md) | [October 3rd: Misunderstood Monster](2021-10-03-misunderstood-monster.md) ➡️ |
 |:-|:-:|-:|
+
+---
+
+[^💀]: Technically, the avatar of debt breaks D&D's challenge rating system; in addition to their scaling Hit Point Maximum (similar to the avatar of death), the avatar cannot deal damage, and thus on its face presents no challenge beyond time spent. But the impact on wealth could be devastating to some players or campaigns, regardless of level. For the purpose of this project, we'll call the avatar a CR1, as a 1st level character should be able to defeat it, and in any case won't die even if the avatar wins the encounter.
