@@ -1,8 +1,7 @@
 # October 17th, 2021 (Challenge 16)
 
-Prompt: **Fairytale**
-
-###
+#
+_Prompt: **Fairytale**_
 
 ---
 

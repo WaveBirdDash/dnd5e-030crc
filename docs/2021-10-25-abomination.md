@@ -1,10 +1,9 @@
 # October 25th, 2021 (Challenge 24)
 
-Prompt: **Abomination**
+# Bears Repeating
+_Prompt: **Abomination**_
 
-### Bears Repeating
-
-#### Description
+## Description
 
 Just as we dare not speak the bear's true name for fear of summoning its wrath, there is a turn of phrase of equal power and danger that would be best avoided. It comes up innocently enough in casual conversation, when a point has been previously made and is reiterated for emphasis, but this simple statement is enough to draw the ire of a terrifying ursine threat from outside of time and space.
 
@@ -25,52 +24,65 @@ IT'S BEARS REPEATING!
   <figcaption>Bears Repeating by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
 </figure>
 
-#### Attributes
+## Attributes
 
-_Large Aberration, Chaotic Evil_
+_Large Aberration, Chaotic Neutral_
 
-**AC** 11 **Initiative** +0 (10)
-
-**HP** 34 (4d10 + 12)
-
+**AC** 11 **Initiative** +1 (11)<br />
+**HP** 22 (3d10 + 6)<br />
 **Speed** 40 ft., Climb 30 ft.
 
 |       |   | MOD | SAVE |       |   | MOD | SAVE |
 |:-----:|:-:|:---:|:----:|:-----:|:-:|:---:|:----:|
-|**STR**|19 | +4  |  +4  |**INT**| 2 | -4  |  -4  |
-|**DEX**|10 | +0  |  +0  |**WIS**|13 | +1  |  +1  |
-|**CON**|16 | +3  |  +3  |**CHA**| 7 | -2  |  -2  |
+|**STR**|17 | +3  |  +3  |**INT**| 2 | -4  |  -4  |
+|**DEX**|12 | +1  |  +1  |**WIS**|13 | +1  |  +1  |
+|**CON**|15 | +2  |  +2  |**CHA**| 7 | -2  |  -2  |
 
-**Skills** Perception +8
+**Skills** Perception +1 plus PB<br />
+**Immunities** Exhaustion<br />
+**Senses** Darkvision 60 ft.; Passive Perception 11 plus PB<br />
+**Languages** None<br />
+**CR** 24 (62,000 XP;[^🐻] PB +1 for every Bears Repeating that exists in this world, minimum +2)
 
-**Senses** Passive Perception 18
+## Traits
 
-**Languages** none
+_**Bears Repeating.**_ Once per world, when the barriers between planes are at their weakest, if someone speaks aloud the phrase "it bears repeating" in normal conversation, the bear is summoned from its hibernation in a pocket dimension and appears in an unoccupied space within 30 feet of its summoner. This bear is identical in appearance to a Brown Bear. Upon being summoned, it viciously attacks all non-bear creatures it can see and will not stop fighting until its summoner dies.
 
-**CR** 24 (62,000 XP; PB +7)
+If the bear takes damage but isn't reduced to 0 Hit Points, it splits into two new Bears Repeating with full Hit Points and an unused Endure reaction. Each new bear shares the original bear's Initiative count and aggression, but it initially treats the creature that dealt the damage as its summoner. A bear will revert its aggression to the original summoner when its current summoner dies, or if its summoner is another bear.
 
-#### Traits
-_**Keen Smell.**_ The bear has Advantage on Wisdom (Perception) checks that rely on smell.
+_**Grin and Bear It.**_ When all Bears Repeating in a world are killed, the Bears Reepeating gains a new body in its pocket dimension lair, reviving with all its Hit Points and resuming its hibernation, awaiting the day another world summons it. The bear can only be permanently destroyed if killed in its pocket dimension lair.
 
-_**Pack Tactics.**_ The bear has Advantage on an attack roll against a creature if at least one of the bear's allies is within 5 feet of the creature and the ally isn't incapacitated.
+_**Keen Bearings.**_ The bear always knows the general direction of its summoner, as long as the two are on the same plane of existence.
 
-_**Bears Repeating.**_ Once per world, when the barriers between planes are at their weakest, if someone speaks aloud the phrase "it bears repeating" in normal conversation, the bear is summoned from its slumber in a pocket dimension and appears in a random space within 20 feet of the speaker. This bear is identical in appearance to a brown bear. Upon being summoned, it viciously attacks all non-bear creatures it can see and will not stop fighting until it or the original summoner dies.
+## Actions
 
-Additionally, if the bear takes damage but isn't reduced to 0 Hit Points, it splits into two new Bears Repeating with full Hit Points that share the original bear's aggression.
+_**Multiattack.**_ The bear makes a number of attacks equal to its Proficiency Bonus, alternating between its Bite and its Claws for each attack.
 
-#### Actions
+_**Bite.**_ _Melee Attack Roll:_ +3 plus PB to hit, reach 5 ft. _Hit:_ 7 (1d8 + 3) Piercing damage.
 
-_**Multiattack.**_ The bear makes a number of attacks equal to the total number of bears within 120 feet (including itself), alternating between its Bite and its Claws for each attack.
+_**Claws.**_ _Melee Attack Roll:_ +3 plus PB to hit, reach 5 ft. _Hit:_ 5 (1d4 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-_**Bite.**_ _Melee Attack Roll:_ +11 to hit, reach 5 ft.. _Hit:_ 8 (1d8 + 4) Piercing damage.
+_**Spellcasting.**_ The bear casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 9 plus PB):
 
-_**Claws.**_ _Melee Attack Roll:_ +11 to hit, reach 5 ft.. _Hit:_ 11 (2d6 + 4) Slashing damage.
+**1/Day Each:** _Gate_ (targeting its summoner)
 
-#### Reactions
+## Reactions
 
 _**Endure (1/Bear).**_ When the bear is reduced to 0 Hit Points, it drops to 1 Hit Point instead, after which it splits as per its Bears Repeating trait.
+
+## Legendary Actions
+
+_Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the bear can expend a use to take one of the following actions. The bear regains all expended uses at the start of each of its turns._
+
+_**Bear Arms.**_ The bear makes one Claws attack.
+
+_**Bear Down.**_ The bear casts _Plane Shift_, using the same spellcasting ability as Spellcasting. The spell's target destination is an unoccupied space within 30 feet of its summoner. The spell fails if the bear and its summoner are on the same plane of existence. The bear can't take this action again until the start of its next turn.
 
 ---
 
 | ⬅️ [October 24th: Outer Space](2021-10-24-outer-space.md) | [Home 🏡](index.md) | [October 26th: Secretive](2021-10-26-secretive.md) ➡️ |
 |:-|:-:|-:|
+
+---
+
+[^🐻]: Challenge rating and XP are shared across all Bears Repeating in a single world, treating them as a single encounter for the purpose of calculating challenge and rewards. All Bears Repeating must be defeated for rewards to be distributed. If you choose to instead track individual bear XP, its stats are identical to a Brown Bear, so you can reward 200 XP per bear, then grant the remainder of the 62,000 XP pool when the final bear is defeated.

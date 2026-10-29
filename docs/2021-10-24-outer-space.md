@@ -1,8 +1,7 @@
 # October 24th, 2021 (Challenge 23)
 
-Prompt: **Outer Space**
-
-###
+#
+_Prompt: **Outer Space**_
 
 ---
 

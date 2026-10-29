@@ -1,10 +1,9 @@
 # October 8th, 2021 (Challenge 7)
 
-Prompt: **Psychopomp**
+# False Shadow
+_Prompt: **Psychopomp**_
 
-### False Shadow
-
-#### Description
+## Description
 
 There is a superstition that the shadow of one fated for a premature death will start to move independently of their body. The truth is at once more straightforward and more disturbing: their shadow could have been consumed by a false shadow, which then is attempting to more directly orchestrate their demise.
 
@@ -17,14 +16,12 @@ While not obscured by darkness or impersonating shadows, a false shadow looks li
   <figcaption>False Shadow by <a href="https://twitter.com/robogyaru">robogyaru</a></figcaption>
 </figure>
 
-#### Attributes
+## Attributes
 
 _Medium Aberration, Lawful Evil_
 
-**AC** 15 **Initiative** +3 (13)
-
-**HP** 85 (10d8 + 40)
-
+**AC** 15 **Initiative** +3 (13)<br />
+**HP** 85 (10d8 + 40)<br />
 **Speed** 30 ft.
 
 |       |   | MOD | SAVE |       |   | MOD | SAVE |
@@ -33,19 +30,15 @@ _Medium Aberration, Lawful Evil_
 |**DEX**|17 | +3  |  +3  |**WIS**|18 | +4  |  +4  |
 |**CON**|19 | +4  |  +4  |**CHA**|12 | +1  |  +1  |
 
-**Skills** Deception +4, Stealth +9
-
-**Resistances** Bludgeoning, Piercing, Psychic, Slashing
-
-**Immunities** Charmed, Exhausted, Frightened, Grappled, Paralyzed, Petrified, Poison, Prone, Restrained
-
-**Senses** Darkvision 60 ft., Passive Perception 14
-
+**Skills** Deception +4, Stealth +9<br />
+**Resistances** Bludgeoning, Piercing, Psychic, Slashing<br />
+**Immunities** Charmed, Exhausted, Frightened, Grappled, Paralyzed, Petrified, Poison, Prone, Restrained<br />
+**Senses** Darkvision 60 ft., Passive Perception 14<br />
 **Languages** understands the languages of a creature attached to it but cannot speak
 
 **CR** 7 (XP 2,900; PB +3)
 
-#### Traits
+## Traits
 
 _**Damage Transfer.**_ While it is attached to a creature using its Attach action, the false shadow takes only half of any damage dealt to it, and the attached creature takes the other half.
 
@@ -53,7 +46,7 @@ _**Darkness Camouflage.**_ While the false shadow is in Dim Light or Darkness, i
 
 _**Devil's Sight.**_ Magical Darkness doesn't impede the false shadow's Darkvision.
 
-#### Actions
+## Actions
 
 _**Attach.**_ The false shadow attaches to any creature that doesn't have a shadow, taking on the size, appearance, and behavior of the creature's original shadow. While attached to a creature, the false shadow shares the creature's space, it moves with the attached creature, and it cannot move independently. The _Remove Curse_ spell or similar magic targeting the attached creature or the false shadow detaches the two creatures, or the false shadow can willingly detach itself at any time.
 
@@ -63,11 +56,11 @@ _**Mind Assault.** Melee Attack Roll:_ +8 to hit, reach 0 ft., one creature atta
 
 _**Puppet.** Wisdom Saving Throw:_ DC 15, one creature attached to the false shadow using its Attach action. _Failure:_ Until the end of the creature's next turn, its actions, bonus actions, reactions, and movement are controlled by the false shadow. The false shadow can only physically control the creature's body and cannot exert its will on the creature's speech or thoughts.
 
-#### Bonus Actions
+## Bonus Actions
 
 _**Shadow Slink.**_ While the false shadow is in Dim Light or Darkness, it moves up to half its Speed without provoking Opportunity Attack action. If the false shadow ends this movement in Dim Light or Datrkness, it can take the Hide action.
 
-#### Reactions
+## Reactions
 
 _**Siphon Fortune.** Trigger:_ A creature attached to the false shadow using its Attach action succeeds on a d20 Test. _Response:_ The false shadow forces the creature to reroll the d20 and take the lower result. If this causes the creature to fail its d20 Test, the false shadow regains a number of Hit Points equal to the failed d20 Test result.
 

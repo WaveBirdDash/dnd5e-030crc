@@ -1,8 +1,7 @@
 # October 28th, 2021 (Challenge 27)
 
-Prompt: **End of the World**
-
-###
+#
+_Prompt: **End of the World**_
 
 ---
 

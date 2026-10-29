@@ -1,8 +1,7 @@
 # October 13th, 2021 (Challenge 12)
 
-Prompt: **B-Movie Monster**
-
-###
+#
+_Prompt: **B-Movie Monster**_
 
 ---
 

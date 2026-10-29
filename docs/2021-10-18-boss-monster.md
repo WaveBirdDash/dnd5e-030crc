@@ -1,8 +1,7 @@
 # October 18th, 2021 (Challenge 17)
 
-Prompt: **Boss Monster**
-
-###
+#
+_Prompt: **Boss Monster**_
 
 ---
 
