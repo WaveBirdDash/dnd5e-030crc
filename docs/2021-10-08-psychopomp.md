@@ -63,8 +63,13 @@ _**Shadow Slink.**_ While the false shadow is in Dim Light or Darkness, it moves
 ## Reactions
 
 _**Siphon Fortune.** Trigger:_ A creature attached to the false shadow using its Attach action succeeds on a d20 Test. _Response:_ The false shadow forces the creature to reroll the d20 and take the lower result. If this causes the creature to fail its d20 Test, the false shadow regains a number of Hit Points equal to the failed d20 Test result.
+<div align="center">
 
 ---
 
 | ⬅️ [October 7th: The Deep](2021-10-07-the-deep.md) | [Home 🏡](index.md) | [October 9th: Pumpkin Spice](2021-10-09-pumpkin-spice.md) ➡️ |
 |:-|:-:|-:|
+
+---
+
+</div>

@@ -54,6 +54,7 @@ To see entries from other folks in the community, check out the #030crc hashtag 
 ### [Credits](credits.md)
 
 ### [Licensing](licensing.md)
+<div align="center">
 
 ---
 
@@ -61,3 +62,5 @@ To see entries from other folks in the community, check out the #030crc hashtag 
 |-:|
 
 ---
+
+</div>

@@ -70,8 +70,13 @@ _**Entangle (3/Day).**_ The grass warrior magically compels plants to ensnare a 
 ## Reactions
 
 _**Parry.**_ The grass warrior adds 2 to its AC against one melee attack that would hit it. To do so, the warrior must see the attacker.
+<div align="center">
 
 ---
 
 | ⬅️ [October 18th: Boss Monster](2021-10-18-boss-monster.md) | [Home 🏡](index.md) | [October 20th: Expanse](2021-10-20-expanse.md) ➡️ |
 |:-|:-:|-:|
+
+---
+
+</div>
