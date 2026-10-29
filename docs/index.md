@@ -2,6 +2,8 @@
 
 This is a collection of Dungeons & Dragons 5th Edition homebrew monsters I created for the Halloween Zero-to-Thirty Challenge Rating Challenge (#030crc). Each day in October 2021 featured a monster (or collection of related monsters) of increasing challenge rating from CR0 to CR30, including lore, full monster stat blocks, and artwork.
 
+This document captures all my submissions for #030crc 2021. Each page links to the original Tumblr post. Monsters have been modified since my original submissions, usually for mechanical rebalancing or 5.5e compatibility.
+
 To see entries from other folks in the community, check out the #030crc hashtag on social media:
 
 - Tumblr: [#030crc](https://www.tumblr.com/tagged/030crc)
