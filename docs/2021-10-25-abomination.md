@@ -27,7 +27,7 @@ IT'S BEARS REPEATING!
 
 #### Attributes
 
-_Large Aberration, Chaotic Evil_
+_Large Aberration, Chaotic Neutral_
 
 **AC** 11 **Initiative** +1 (11)<br />
 **HP** 22 (3d10 + 6)<br />
