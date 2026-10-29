@@ -29,9 +29,9 @@ Farmers and hunters in the region might revere the Stag as a minor deity, but th
 
 _Large fey (archfey), chaotic neutral_
 
-- **Armor Class** 20 (natural armor)
-- **Hit Points** 607 (45d10 + 270)
-- **Speed** 60 ft.
+**AC** 20 (natural armor)<br />
+**HP** 607 (45d10 + 270)<br />
+**Speed** 60 ft.
 
 |       |   | MOD | SAVE |       |   | MOD | SAVE |
 |:-----:|:-:|:---:|:----:|:-----:|:-:|:---:|:----:|
@@ -39,12 +39,11 @@ _Large fey (archfey), chaotic neutral_
 |**DEX**|26 | +8  | +16  |**WIS**|25 | +7  | +15  |
 |**CON**|26 | +8  |  +8  |**CHA**|26 | +8  | +16  |
 
-- **Skills** Insight +13, Intimidation +16, Perception +15, Persuasion +16
-- **Damage Immunities**
-- **Condition Immunities** Blinded, Charmed, Deafened, Force, Frightened, Exhausted, Grappled, Paralyzed, Poisoned, Stunned; Bludgeoning, Piercing, and Slashing from nonmagical attacks
-- **Senses** Truesight 120 ft., passive Perception 25
-- **Languages** Druidic, Sylvan, telepathy 120 ft.
-- **Challenge** 25 (75,000 XP) **Proficiency Bonus** +8
+**Skills** Insight +13, Intimidation +16, Perception +15, Persuasion +16<br />
+**Immunities** Blinded, Charmed, Deafened, Force, Frightened, Exhausted, Grappled, Paralyzed, Poisoned, Stunned; Bludgeoning, Piercing, and Slashing from nonmagical attacks<br />
+**Senses** Truesight 120 ft., passive Perception 25<br />
+**Languages** Druidic, Sylvan, telepathy 120 ft.<br />
+**CR** 25 (75,000 XP) **Proficiency Bonus** +8
 
 #### Traits
 

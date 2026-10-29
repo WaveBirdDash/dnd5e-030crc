@@ -31,9 +31,9 @@ _**Audit.**_ You summon an avatar of debt – a ghostly skeleton creature clad i
 
 _Medium undead, lawful evil_
 
-- **Armor Class** 13
-- **Hit Points** half the Hit Point Maximum of their summoner
-- **Speed** 60 ft., fly 60 ft. (hover)
+**AC** 13<br />
+**HP** half the Hit Point Maximum of their summoner<br />
+**Speed** 60 ft., fly 60 ft. (hover)
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  | CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:----:|
@@ -45,10 +45,10 @@ _Medium undead, lawful evil_
 |**DEX**|17 | +3  |  +3  |**WIS**|18 | +4  |  +4  |
 |**CON**|16 | +3  |  +3  |**CHA**| 4 | -3  |  -3  |
 
-- **Immunities** Charmed, Frightened, Necrotic, Paralyzed, Petrified, Poison, Unconscious
-- **Senses** Darkvision 60 ft., Truesight 60 ft., passive Perception 14
-- **Languages** all languages known of their summoner
-- **Challenge** equal to the summoner's level or challenge rating, minimum 1 (200 XP)[^💀]
+**Immunities** Charmed, Frightened, Necrotic, Paralyzed, Petrified, Poison, Unconscious<br />
+**Senses** Darkvision 60 ft., Truesight 60 ft., passive Perception 14<br />
+**Languages** all languages known of their summoner<br />
+**CR** equal to the summoner's level or challenge rating, minimum 1 (200 XP)[^💀]
 
 #### Traits
 

@@ -31,10 +31,8 @@ Once per day, you can cast _Ensnare_ through the Blade of Grass, requiring no Co
 
 _Medium Plant, Chaotic Evil_
 
-**AC** 17 **Initiative** +3 (13)
-
-**HP** 315 (30d8 + 180)
-
+**AC** 17 **Initiative** +3 (13)<br />
+**HP** 315 (30d8 + 180)<br />
 **Speed** 30 ft.
 
 |       |   | MOD | SAVE |       |   | MOD | SAVE |
@@ -43,20 +41,13 @@ _Medium Plant, Chaotic Evil_
 |**DEX**|16 | +3  |  +9  |**WIS**|18 | +4  |  +10 |
 |**CON**|22 | +6  |  +12 |**CHA**| 8 | -1  |  -1  |
 
-**Skills** Athletics +8, Deception +5, Stealth +9
-
-**Gear** Blade of Grass
-
-**Resistances** Bludgeoning, Piercing
-
-**Immunities** Blinded, Deafened, Paralyzed
-
-**Vulnerabilities** Fire, Slashing
-
-**Senses** Tremorsense 30 ft., Passive Perception 14
-
-**Languages** understands Common but can't speak
-
+**Skills** Athletics +8, Deception +5, Stealth +9<br />
+**Gear** Blade of Grass<br />
+**Resistances** Bludgeoning, Piercing<br />
+**Immunities** Blinded, Deafened, Paralyzed<br />
+**Vulnerabilities** Fire, Slashing<br />
+**Senses** Tremorsense 30 ft., Passive Perception 14<br />
+**Languages** understands Common but can't speak<br />
 **CR** 18 (20,000 XP; PB +6)
 
 #### Traits

@@ -21,10 +21,8 @@ While not obscured by darkness or impersonating shadows, a false shadow looks li
 
 _Medium Aberration, Lawful Evil_
 
-**AC** 15 **Initiative** +3 (13)
-
-**HP** 85 (10d8 + 40)
-
+**AC** 15 **Initiative** +3 (13)<br />
+**HP** 85 (10d8 + 40)<br />
 **Speed** 30 ft.
 
 |       |   | MOD | SAVE |       |   | MOD | SAVE |
@@ -33,14 +31,10 @@ _Medium Aberration, Lawful Evil_
 |**DEX**|17 | +3  |  +3  |**WIS**|18 | +4  |  +4  |
 |**CON**|19 | +4  |  +4  |**CHA**|12 | +1  |  +1  |
 
-**Skills** Deception +4, Stealth +9
-
-**Resistances** Bludgeoning, Piercing, Psychic, Slashing
-
-**Immunities** Charmed, Exhausted, Frightened, Grappled, Paralyzed, Petrified, Poison, Prone, Restrained
-
-**Senses** Darkvision 60 ft., Passive Perception 14
-
+**Skills** Deception +4, Stealth +9<br />
+**Resistances** Bludgeoning, Piercing, Psychic, Slashing<br />
+**Immunities** Charmed, Exhausted, Frightened, Grappled, Paralyzed, Petrified, Poison, Prone, Restrained<br />
+**Senses** Darkvision 60 ft., Passive Perception 14<br />
 **Languages** understands the languages of a creature attached to it but cannot speak
 
 **CR** 7 (XP 2,900; PB +3)

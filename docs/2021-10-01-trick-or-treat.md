@@ -21,9 +21,9 @@ _**Sugar Rush.**_ Even though trickered treats are toxic to consume, they can st
 
 _Tiny construct, same alignment as its creator_
 
-- **Armor Class** 11
-- **Hit Points** 3 (1d4 + 1)
-- **Speed** 0 ft., fly 10 ft.
+**AC** 11 **Initiative** +1 (11)<br />
+**HP** 3 (1d4 + 1)<br />
+**Speed** 0 ft., Fly 10 ft.
 
 |       |   | MOD | SAVE |       |   | MOD | SAVE |
 |:-----:|:-:|:---:|:----:|:-----:|:-:|:---:|:----:|
@@ -31,10 +31,10 @@ _Tiny construct, same alignment as its creator_
 |**DEX**|13 | +1  |  +1  |**WIS**| 3 | -4  |  -4  |
 |**CON**|13 | +1  |  +1  |**CHA**| 1 | -5  |  -5  |
 
-- **Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poison
-- **Senses** blindsight 10 ft. (blind beyond this radius), passive Perception 6
-- **Languages** understands the languages of its creator but cannot speak
-- **Challenge** 0 (10 XP) **Proficiency Bonus** +2
+**Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poison<br />
+**Senses** Blindsight 10 ft. (blind beyond this radius); Passive Perception 6<br />
+**Languages** understands the languages of its creator but cannot speak<br />
+**CR** 0 (10 XP; PB +2)
 
 #### Traits
 
@@ -58,9 +58,9 @@ The more children a hag has wandering their premises looking for handouts, the b
 
 _Medium swarm of Tiny constructs, same alignment as its creator_
 
-- **Armor Class** 12
-- **Hit Points** 28 (4d8 + 10)
-- **Speed** 0 ft., fly 10 ft.
+**AC** 12<br />
+**Hit Points** 28 (4d8 + 10)<br />
+**Speed** 0 ft., fly 10 ft.
 
 |       |   | MOD | SAVE |       |   | MOD | SAVE |
 |:-----:|:-:|:---:|:----:|:-----:|:-:|:---:|:----:|
@@ -68,11 +68,11 @@ _Medium swarm of Tiny constructs, same alignment as its creator_
 |**DEX**|15 | +2  |  +2  |**WIS**| 3 | -4  |  -4  |
 |**CON**|14 | +2  |  +2  |**CHA**| 1 | -5  |  -5  |
 
-- **Resistances** Bludgeoning, Piercing, Slashing
-- **Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poison, Prone, Restrained, Stunned
-- **Senses** blindsight 10 ft. (blind beyond this radius), passive Perception 6
-- **Languages** understands the languages of its creator but cannot speak
-- **Challenge** ¼ (50 XP) **Proficiency Bonus** +2
+**Resistances** Bludgeoning, Piercing, Slashing<br />
+**Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poison, Prone, Restrained, Stunned<br />
+**Senses** blindsight 10 ft. (blind beyond this radius), passive Perception 6<br />
+**Languages** understands the languages of its creator but cannot speak<br />
+**Challenge** ¼ (50 XP) **Proficiency Bonus** +2
 
 #### Traits
 

@@ -29,10 +29,8 @@ You gain a +2 bonus to attack and damage rolls made with this weapon. When you h
 
 _Medium Celestial, Chaotic Good_
 
-**AC** 16 **Initiative** +4 (14)
-
-**HP** 142 (15d8 + 75)
-
+**AC** 16 **Initiative** +4 (14)<br />
+**HP** 142 (15d8 + 75)<br />
 **Speed** 30 ft., fly 40 ft.
 
 |       |   | MOD | SAVE |       |   | MOD | SAVE |
@@ -41,16 +39,11 @@ _Medium Celestial, Chaotic Good_
 |**DEX**|18 | +4  |  +4  |**WIS**|18 | +4  |  +8  |
 |**CON**|20 | +5  |  +5  |**CHA**|13 | +1  |  +1  |
 
-**Skills** Deception +5, Insight +6, Perception +8
-
-**Gear** Angel Blade
-
-**Resistances** Bludgeoning, Piercing, Radiant, Slashing
-
-**Immunities** Exhaustion, Frightened
-
-**Senses** Darkvision 60 ft., Passive Perception 18
-
+**Skills** Deception +5, Insight +6, Perception +8<br />
+**Gear** Angel Blade<br />
+**Resistances** Bludgeoning, Piercing, Radiant, Slashing<br />
+**Immunities** Exhaustion, Frightened<br />
+**Senses** Darkvision 60 ft., Passive Perception 18<br />
 **Languages** all, telepathy 120 ft. with other celestial creatures
 
 **CR** 9 (5,000 XP; PB +4)

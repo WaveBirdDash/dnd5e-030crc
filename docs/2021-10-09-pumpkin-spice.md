@@ -25,10 +25,8 @@ Particularly mischievous dryads might use their fey ability to take the names of
 
 _Medium Fey, Lawful Neutral_
 
-**AC** 16 **Initiative** +4 (14)
-
-**HP** 130 (20d8 + 40)
-
+**AC** 16 **Initiative** +4 (14)<br />
+**HP** 130 (20d8 + 40)<br />
 **Speed** 30 ft.
 
 |       |   | MOD | SAVE |       |   | MOD | SAVE |
@@ -37,12 +35,9 @@ _Medium Fey, Lawful Neutral_
 |**DEX**|18 | +4  |  +4  |**WIS**|18 | +4  |  +7  |
 |**CON**|15 | +2  |  +2  |**CHA**|22 | +6  |  +9  |
 
-**Skills** Nature +4, Sleight of Hand +7
-
-**Senses** Passive Perception 13
-
-**Languages** Common, Elvish, Sylvan
-
+**Skills** Nature +4, Sleight of Hand +7<br />
+**Senses** Passive Perception 13<br />
+**Languages** Common, Elvish, Sylvan<br />
 **CR** 8 (XP 3,900; PB +3)
 
 ### Traits
